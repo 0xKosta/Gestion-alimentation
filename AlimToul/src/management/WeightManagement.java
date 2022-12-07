@@ -2,7 +2,7 @@ package management;
 
 import main.User;
 
-
+//TODO Rework WeightManagement.
 public class WeightManagement {
 	private User chosenUser;
 	private float weightGoal;

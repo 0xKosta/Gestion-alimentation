@@ -23,7 +23,7 @@ public class Menu {
 		return nbUsers;
 	}
 
-
+	//TODO Save and load users
 	private User[] loadSavedUsers() {
 		User[] savedUsers = new User[10];
 		int i;

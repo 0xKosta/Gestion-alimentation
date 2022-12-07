@@ -11,6 +11,8 @@ public class User {
 	private int weightGoal;
 	private int startWeight;
 	
+	//TODO Figure out how to load weightGoal and startWeight
+	
 	public User(float weight, float height, String name) {
 		this.weight = weight;
 		this.height = height;
